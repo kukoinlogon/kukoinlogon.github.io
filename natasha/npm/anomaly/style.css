@@ -1,0 +1,128 @@
+.kc-anomaly-container {
+  min-width: 1000px;
+  min-height: 500px;
+  position: fixed;
+  z-index: 9999;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #FFF;
+}
+.kc-anomaly-content {
+  width: 1000px;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  margin-left: -500px;
+}
+.kc-anomaly-content::after {
+  content: "";
+  height: 0px;
+  visibility: hidden;
+  display: block;
+  clear: both;
+  zoom: 1;
+}
+.kc-anomaly-leftBox {
+  float: left;
+  max-width: 520px;
+}
+.kc-anomaly-rightBox {
+  float: right;
+  width: 460px;
+  height: 313px;
+  background-image: url('images/compatibility-computer.svg');
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.kc-anomaly-title {
+  font-size: 34px;
+  font-weight: 500;
+  color: #000A1E;
+  margin-bottom: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+  line-height: 1.5;
+}
+.kc-anomaly-describe {
+  font-size:14px;
+  color: #6C7988;
+  line-height:24px;
+  margin-top: 4px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+
+.kc-anomaly-btnGroup {
+  padding-top: 16px;
+}
+.kc-anomaly-btn {
+  display: block;
+  padding: 0 12px;
+  height: 48px;
+  line-height: 48px;
+  min-width: 166px;
+  text-align: center;
+  outline: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
+.kc-anomaly-reload {
+  color: #FFF;
+  background: #24AE8F;
+  border: 1px solid #24AE8F;
+}
+.kc-anomaly-link {
+  color: #464E5B;
+  background: #FFF;
+  border: 1px solid rgb(108,121,136);
+}
+.kc-anomaly-browserList {
+  margin-left: -30px;
+  margin-top: 27px;
+}
+.kc-anomaly-browserList::after {
+  content: "";
+  height: 0px;
+  visibility: hidden;
+  display: block;
+  clear: both;
+  zoom: 1;
+
+}
+.kc-anomaly-browserList>a {
+  float: left;
+  margin-left: 30px;
+  text-decoration: none;
+}
+.kc-anomaly-browserList>a:focus {
+  text-decoration: none;
+}
+.kc-anomaly-browserLogo {
+  width: 90px;
+  height: 90px;
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.kc-anomaly-chrome {
+  background-image: url('images/chrome.svg');
+}
+.kc-anomaly-firefox {
+  background-image: url('images/firefox.svg');
+}
+.kc-anomaly-opera {
+  background-image: url('images/opera.svg');
+}
+.kc-anomaly-safari {
+  background-image: url('images/safari.svg');
+}
+.kc-anomaly-browserName {
+  text-align: center;
+  color: #24AE8F;
+  font-size:16px;
+  line-height:22px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+}
