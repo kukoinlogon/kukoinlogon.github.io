@@ -1,0 +1,111 @@
+@font-face {
+  font-family: KUCOINSans;
+  font-display: swap;
+  font-weight: 100;
+  src: url(KUCOINSans-Light.woff) format('woff2'), url(KUCOINSans-Light.woff) format('woff');
+}
+
+@font-face {
+  font-family: KUCOINSans;
+  font-display: swap;
+  font-weight: 200;
+  src: url(KUCOINSans-Light.woff) format('woff2'), url(KUCOINSans-Light.woff) format('woff');
+}
+
+@font-face {
+  font-family: KUCOINSans;
+  font-display: swap;
+  font-weight: 300;
+  src: url(KUCOINSans-Light.woff) format('woff2'), url(KUCOINSans-Light.woff) format('woff');
+}
+
+@font-face {
+  font-family: KUCOINSans;
+  font-display: swap;
+  font-weight: 400;
+  src: url(KUCOINSans-Regular.woff) format('woff2'), url(KUCOINSans-Regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: KUCOINSans;
+  font-display: swap;
+  font-weight: 500;
+  src: url(KUCOINSans-Medium.woff) format('woff2'), url(KUCOINSans-Medium.woff) format('woff');
+}
+
+@font-face {
+  font-family: KUCOINSans;
+  font-display: swap;
+  font-weight: 600;
+  src: url(KUCOINSans-Demi.woff) format('woff2'), url(KUCOINSans-Demi.woff) format('woff');
+}
+
+@font-face {
+  font-family: KUCOINSans;
+  font-display: swap;
+  font-weight: 700;
+  src: url(KUCOINSans-Bold.woff) format('woff2'), url(KUCOINSans-Bold.woff) format('woff');
+}
+
+@font-face {
+  font-family: KUCOINSans;
+  font-display: swap;
+  font-weight: 800;
+  src: url(KUCOINSans-Black.woff) format('woff2'), url(KUCOINSans-Black.woff) format('woff');
+}
+
+@font-face {
+  font-family: URWDIN;
+  font-display: swap;
+  font-weight: 100;
+  src: url(URWDIN-Thin.woff) format('woff2'), url(URWDIN-Thin.woff) format('woff');
+}
+
+@font-face {
+  font-family: URWDIN;
+  font-display: swap;
+  font-weight: 200;
+  src: url(URWDIN-XLight.woff) format('woff2'), url(URWDIN-XLight.woff) format('woff');
+}
+
+@font-face {
+  font-family: URWDIN;
+  font-display: swap;
+  font-weight: 300;
+  src: url(URWDIN-Light.woff) format('woff2'), url(URWDIN-Light.woff) format('woff');
+}
+
+@font-face {
+  font-family: URWDIN;
+  font-display: swap;
+  font-weight: 400;
+  src: url(URWDIN-Regular.woff) format('woff2'), url(URWDIN-Regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: URWDIN;
+  font-display: swap;
+  font-weight: 500;
+  src: url(URWDIN-Medium.woff) format('woff2'), url(URWDIN-Medium.woff) format('woff');
+}
+
+@font-face {
+  font-family: URWDIN;
+  font-display: swap;
+  font-weight: 600;
+  src: url(URWDIN-Demi.woff) format('woff2'), url(URWDIN-Demi.woff) format('woff');
+}
+
+@font-face {
+  font-family: URWDIN;
+  font-display: swap;
+  font-weight: 700;
+  src: url(URWDIN-Bold.woff) format('woff2'), url(URWDIN-Bold.woff) format('woff');
+}
+
+@font-face {
+  font-family: URWDIN;
+  font-display: swap;
+  font-weight: 800;
+  src: url(URWDIN-Black.woff) format('woff2'), url(URWDIN-Black.woff) format('woff');
+}

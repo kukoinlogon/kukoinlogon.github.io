@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>telegram@1.5x</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#0AAEFF" offset="0%"></stop>
+            <stop stop-color="#0088CC" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="OTC加广告位" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页备份-2-copy" transform="translate(-367.000000, -679.000000)">
+            <g id="英国" transform="translate(0.000000, 559.000000)">
+                <g id="编组-7" transform="translate(360.000000, 46.000000)">
+                    <g id="Group-Copy-11" transform="translate(0.000000, 61.000000)">
+                        <g id="Rectangle" transform="translate(0.000000, 6.000000)">
+                            <rect x="0" y="0" width="44" height="44"></rect>
+                            <g id="Group-5" transform="translate(7.333333, 7.333333)">
+                                <circle id="Oval" fill="url(#linearGradient-1)" cx="14.6666667" cy="14.6666667" r="14.6666667"></circle>
+                                <path d="M11.5570164,17.4598971 L17.3983333,21.7693621 C18.0628601,22.131502 18.5463169,21.9504321 18.7147119,21.1537243 L21.0921605,9.95092593 C21.3347942,8.97314815 20.7191564,8.53858025 20.0781687,8.8282922 L6.12491768,14.2115021 C5.17067901,14.5989918 5.18335388,15.1295268 5.95471195,15.3594856 L9.53989713,16.4821194 L17.8329012,11.2546296 C18.220391,11.0138066 18.5825309,11.1459877 18.2928189,11.4121605 L11.5570164,17.4598971 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

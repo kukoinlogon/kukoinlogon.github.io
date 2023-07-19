@@ -1,0 +1,24 @@
+{
+  "imports": {
+    "@kucoin-biz/404": "https://assets.staticimg.com/g-biz/externals/2022-06-01/404.17968ae7.js",
+    "@kucoin-biz/ada": "https://assets.staticimg.com/g-biz/externals/2022-06-01/ada.299db327.js",
+    "@kucoin-biz/captcha": "https://assets.staticimg.com/g-biz/externals/2022-06-01/captcha.46497f0b.js",
+    "@kucoin-biz/cms": "https://assets.staticimg.com/g-biz/externals/2022-06-01/cms.c333960a.js",
+    "@kucoin-biz/common-base": "https://assets.staticimg.com/g-biz/externals/2022-06-01/common-base.880cc444.js",
+    "@kucoin-biz/download": "https://assets.staticimg.com/g-biz/externals/2022-06-01/download.2f6a18ee.js",
+    "@kucoin-biz/entrance": "https://assets.staticimg.com/g-biz/externals/2022-06-01/entrance.e7eb2993.js",
+    "@kucoin-biz/extensionDetector": "https://assets.staticimg.com/g-biz/externals/2022-06-01/extensionDetector.d6e265a6.js",
+    "@kucoin-biz/footer": "https://assets.staticimg.com/g-biz/externals/2022-06-01/footer.72974acb.js",
+    "@kucoin-biz/gps": "https://assets.staticimg.com/g-biz/externals/2022-06-01/gps.ba37a311.js",
+    "@kucoin-biz/header": "https://assets.staticimg.com/g-biz/externals/2022-06-01/header.8cf11d96.js",
+    "@kucoin-biz/kyc": "https://assets.staticimg.com/g-biz/externals/2022-06-01/kyc.8db997b2.js",
+    "@kucoin-biz/undefined": "externals/2022-06-01/remote-app.css",
+    "@kucoin-biz/security": "https://assets.staticimg.com/g-biz/externals/2022-06-01/security.7bfd68df.js",
+    "@kucoin-biz/sentry": "https://assets.staticimg.com/g-biz/externals/2022-06-01/sentry.18b5065f.js",
+    "@kucoin-biz/seo": "https://assets.staticimg.com/g-biz/externals/2022-06-01/seo.e037ad63.js",
+    "@kucoin-biz/share": "https://assets.staticimg.com/g-biz/externals/2022-06-01/share.2139abdd.js",
+    "@kucoin-biz/tools": "https://assets.staticimg.com/g-biz/externals/2022-06-01/tools.d46f8a8f.js",
+    "@kucoin-biz/userRestricted": "https://assets.staticimg.com/g-biz/externals/2022-06-01/userRestricted.68fff733.js",
+    "@kucoin-biz/utm-link": "https://assets.staticimg.com/g-biz/externals/2022-06-01/utm-link.7686b4ea.js"
+  }
+}
